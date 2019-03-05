@@ -1,0 +1,50 @@
+/*
+* Meredith Frazier
+* March 5, 2019
+* Project 02 - Prom Dress
+*/
+
+/* The universal selector */
+
+*{
+    
+    
+}
+
+
+/* Body properties here */
+
+body {
+    
+    width: 95%;
+    margin: auto;
+    background-color: mistyrose;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+
+h1{
+    
+   background-color: mediumpurple; /* color for background*/
+   color: white; /* color of text */
+}
+
+
+p{ /* type selector for ALL paragraphs */
+    
+    color: mediumorchid;
+    
+}
+
+
+#darkcyanText { /* use an id to change text to darkcyan */
+    
+    color: darkcyan;
+}
+
+
+.skyblueText { /* use a class to change text to lightcyan */
+    
+    color: skyblue;
+}
